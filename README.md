@@ -4,9 +4,9 @@ This project is a modular, production-grade microservices platform designed for 
 
 Key Features:
 
-- Microservices-based architecture for independent scaling and deployment[8][9]
-- Automated CI/CD pipelines for fast, reliable software delivery[9][11]
-- Infrastructure as Code using Ansible and Terraform for reproducible environments[11]
+- Microservices-based architecture for independent scaling and deployment
+- Automated CI/CD pipelines for fast, reliable software delivery
+- Infrastructure as Code using Ansible and Terraform for reproducible environments
 - Containerized services orchestrated via Docker Compose
 - Real-time monitoring and alerting with Prometheus and Grafana
 - Secure API gateway and reverse proxy with NGINX
@@ -26,8 +26,8 @@ Prerequisites:
 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-org/your-repo.git
-cd your-repo
+git clone https://github.com/cybergir/AI-Media-IaC.git
+cd AI-Media-IaC
 ```
 
 2. Configure Environment Variables
